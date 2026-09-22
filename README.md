@@ -2,7 +2,7 @@
 
 ***Hominid** - noun - A primate of a family that includes humans.*
 
-![Hominid Title Image](https://cdn.modrinth.com/data/4whAQxB5/images/fcf7cfa9d41a93a76065ba08c7e6d026dea81eae.png)
+<img src="https://cdn.modrinth.com/data/4whAQxB5/images/fcf7cfa9d41a93a76065ba08c7e6d026dea81eae.png" alt="Hominid Title Image" width="50%"/>
 
 ---
 
